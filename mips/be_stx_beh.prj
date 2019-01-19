@@ -1,0 +1,2 @@
+verilog isim_temp "mips/cpu/datapath/4_M/be.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

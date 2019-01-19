@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/ThinkPad/Documents/ISE/mips/mips/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/ThinkPad/Documents/ISE/mips/mips/xst"
+elaborate
+-ifn mips.prj
+-ifmt mixed

@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+loadExt instance_name (
+    .Dr(Dr), 
+    .Addr(Addr), 
+    .BEOp(BEOp), 
+    .LoadExtOp(LoadExtOp), 
+    .Ext(Ext)
+    );
+
+

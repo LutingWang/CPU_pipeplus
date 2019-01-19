@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj mips -o C:/Users/ThinkPad/Documents/ISE/mips/mips/cp0.tfi -lib work C:/Users/ThinkPad/Documents/ISE/mips/mips/mips/cpu/expectation//cp0.v -module cp0 -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

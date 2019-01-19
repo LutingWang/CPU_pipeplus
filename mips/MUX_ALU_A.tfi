@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+MUX_ALU_A instance_name (
+    .Rd1(Rd1), 
+    .Shamt(Shamt), 
+    .ALUSrc(ALUSrc), 
+    .ALUSrcOut(ALUSrcOut)
+    );
+
+

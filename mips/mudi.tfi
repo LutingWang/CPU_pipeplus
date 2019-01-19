@@ -1,0 +1,19 @@
+
+
+
+// Instantiate the module
+mudi instance_name (
+    .A(A), 
+    .B(B), 
+    .MuDiOp(MuDiOp), 
+    .start(start), 
+    .We(We), 
+    .Din(Din), 
+    .Clk(Clk), 
+    .Reset(Reset), 
+    .buzy(buzy), 
+    .Dout(Dout), 
+    .exp_in(exp_in)
+    );
+
+

@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj mips -o C:/Users/ThinkPad/Documents/ISE/mips/mips/expD.tfi -lib work C:/Users/ThinkPad/Documents/ISE/mips/mips/mips/cpu/datapath/2_D//expD.v -module expD -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

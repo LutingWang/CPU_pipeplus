@@ -1,0 +1,2 @@
+verilog work "mips/cpu/control/ctrl.v"
+verilog work "mips/cpu/control/hazard.v"

@@ -1,0 +1,3 @@
+verilog isim_temp "mips/timer/timer.v"
+verilog isim_temp "mips/timer/timer_tb.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

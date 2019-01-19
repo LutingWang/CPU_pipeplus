@@ -1,0 +1,129 @@
+Release 14.7 - xst P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/ThinkPad/Documents/ISE/mips/mips/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.18 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/ThinkPad/Documents/ISE/mips/mips/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.18 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "mips/cpu/control/ctrl.v" in library work
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/expectation/expM.v" in library work
+Module <ctrl> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/expectation/expF.v" in library work
+Module <expM> compiled
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/expectation/expE.v" in library work
+Module <expF> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/expectation/expD.v" in library work
+Module <expE> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/expectation/cp0.v" in library work
+Module <expD> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/datapath/mux.v" in library work
+Module <cp0> compiled
+Compiling verilog include file "header.v"
+Module <MUX_RF_A3> compiled
+Compiling verilog include file "header.v"
+Module <MUX_ALU_B> compiled
+Compiling verilog include file "header.v"
+Module <MUX_RF_WD> compiled
+Compiling verilog include file "header.v"
+Compiling verilog file "mips/cpu/datapath/mf.v" in library work
+Module <MUX_PC> compiled
+Compiling verilog include file "header.v"
+Compiling verilog file "mips/cpu/datapath/4_M/dm.v" in library work
+Module <mf> compiled
+Compiling verilog file "mips/cpu/datapath/3_E/alu.v" in library work
+Module <dm> compiled
+Compiling verilog include file "header.v"
+Compiling verilog file "mips/cpu/datapath/2_D/npc.v" in library work
+Module <alu> compiled
+Compiling verilog include file "header.v"
+Compiling verilog file "mips/cpu/datapath/2_D/grf.v" in library work
+Module <npc> compiled
+Compiling verilog file "mips/cpu/datapath/2_D/ext.v" in library work
+Module <grf> compiled
+Compiling verilog include file "header.v"
+Compiling verilog file "mips/cpu/datapath/2_D/cmp.v" in library work
+Module <ext> compiled
+Compiling verilog include file "header.v"
+Compiling verilog file "mips/cpu/datapath/1_F/pc.v" in library work
+Module <cmp> compiled
+Compiling verilog file "mips/cpu/datapath/1_F/im.v" in library work
+Module <pc> compiled
+Compiling verilog file "mips/cpu/expectation/exception.v" in library work
+Module <im> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/datapath/5_W/W.v" in library work
+Module <exception> compiled
+Compiling verilog include file "header.v"
+Compiling verilog file "mips/cpu/datapath/4_M/M.v" in library work
+Module <W> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/datapath/3_E/E.v" in library work
+Module <M> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/datapath/2_D/D.v" in library work
+Module <E> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/datapath/1_F/F.v" in library work
+Module <D> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/datapath/datapath.v" in library work
+Module <F> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/cpu/control/hazard.v" in library work
+Module <datapath> compiled
+Compiling verilog include file "header.v"
+Compiling verilog include file "expint.v"
+Compiling verilog file "mips/timer/timer.v" in library work
+Module <hazard> compiled
+Compiling verilog file "mips/cpu/cpu.v" in library work
+Module <timer> compiled
+Compiling verilog file "mips/bridge/bridge.v" in library work
+Module <cpu> compiled
+Compiling verilog file "mips/mips.v" in library work
+Module <bridge> compiled
+Module <mips> compiled
+No errors in compilation
+Analysis of file <"mips.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.38 secs
+ 
+--> 
+
+Total memory usage is 252664 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

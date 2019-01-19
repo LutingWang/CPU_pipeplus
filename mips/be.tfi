@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+be instance_name (
+    .Addr(Addr), 
+    .BEOp(BEOp), 
+    .Be(Be), 
+    .ade(ade)
+    );
+
+
